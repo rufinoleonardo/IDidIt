@@ -2,7 +2,8 @@
     <string name="app_name">IDidIt</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">Home Fragment</string>
+    <string name="home_fragment_label">Home Fragment</string>
+    <string name="new_task_fragment_label">Add Task Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
@@ -10,5 +11,5 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem.
     </string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Home fragment...</string>
+    <string name="hello_blank_fragment">Home fragment</string>
 </resources>
