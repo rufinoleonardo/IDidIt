@@ -2,6 +2,7 @@ package com.rufino.ididit
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.rufino.ididit.ui.HomeFragment
 
 class MainActivity : AppCompatActivity() {
 

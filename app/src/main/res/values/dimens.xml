@@ -1,3 +1,16 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="p_sm">8dp</dimen>
+    <dimen name="p_md">16dp</dimen>
+    <dimen name="p_lg">20dp</dimen>
+    <dimen name="p_xl">24dp</dimen>
+
+    <!-- FontSize -->
+    <dimen name="h1_emphasis">35sp</dimen>
+    <dimen name="h2_headline">30sp</dimen>
+    <dimen name="h3_subheading">25sp</dimen>
+    <dimen name="h4_title">20sp</dimen>
+    <dimen name="h4_subtitle">16sp</dimen>
+    <dimen name="h6_paragraph">12sp</dimen>
+    <dimen name="h6_label">10sp</dimen>
 </resources>
